@@ -50,17 +50,17 @@
 
  @font-face {
     font-family: 'graffiti';
-    src: url('/fonts/GRAFFITI.TTF');
+    src: url('../fonts/GRAFFITI.TTF');
   }
 
 @font-face{
     font-family:'magazine';
-    src: url('/fonts/MagazineLetterByBrntlbrnl-Regular.ttf');
+    src: url('../fonts/MagazineLetterByBrntlbrnl-Regular.ttf');
 }
 
 @font-face{
   font-family:'paragraph';
-  src: url('/fonts/made_avenue/MADEAvenuePERSONALUSE-Regular.otf');
+  src: url('../fonts/made_avenue/MADEAvenuePERSONALUSE-Regular.otf');
 }
 
 
