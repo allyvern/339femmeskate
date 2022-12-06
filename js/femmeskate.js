@@ -17,6 +17,7 @@ function menubar(){
     console.log("function");
 }
 
+
 // document.querySelectorAll('.videoPreview').forEach(function(vid) {
 //     vid.onmouseover = function() {
 //       this.play();
